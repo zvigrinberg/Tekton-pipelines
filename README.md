@@ -1,7 +1,8 @@
 # Tekton-pipelines
 
-This repo will contain both tekton tasks and pipelines
+- This repo will contain both tekton tasks and pipelines
 
+- This repo will contain also triggers and eventListeners
 ## Prerequisites:
 
 You'll need an openshift or k8 cluster, if you don't have access to such, 
