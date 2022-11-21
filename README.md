@@ -2,7 +2,7 @@
 
 - This repo will contain both tekton tasks and pipelines
 
-- This repo will contain also Triggers and EventListeners. 
+- This repo will contain also Triggers, TriggerBindings, TriggerTemplates and EventListeners. 
 
 ## Prerequisites:
 
